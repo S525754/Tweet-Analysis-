@@ -8,3 +8,12 @@ MapRedce Problem2:
 Which type of issues made customers give negative feedback and its values?
 MapRedce Problem3:
 Which airline has most negative feedback and which airline has most positive feedback?
+
+Using the Tortoise SVN and GIT clone command you can pull the repository into your local system. Link is mentioned below.
+https://github.com/S525754/Tweet-Analysis---Airline-Sentiment.git
+
+How to execute the command:
+hadoop fs -put Tweets.CSV  This command will place the CSV file in HDFS
+hs mapper.py reducer.py myinput joboutput  -> Will generate the output
+
+
