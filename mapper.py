@@ -1,7 +1,7 @@
 f = open("Tweets.csv","r")  # open file, read-only
 o = open("mOutput.txt", "w") # open file, write-only
 for line in f:  
-    data = line.strip().split(",") # Split the input data based on , seperated
+    data = line.strip().split(",") # Split the input data based on ',' seperated
     print data
     print len(data)
     if len(data) == 15:
