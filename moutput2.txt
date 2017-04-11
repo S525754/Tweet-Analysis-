@@ -1,0 +1,4444 @@
+negativereason	1
+Bad Flight	1
+Can't Tell	1
+Bad Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Cancelled Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Late Flight	1
+Flight Attendant Complaints	1
+Late Flight	1
+Flight Booking Problems	1
+Damaged Luggage	1
+Damaged Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Cancelled Flight	1
+Flight Booking Problems	1
+Cancelled Flight	1
+Cancelled Flight	1
+Bad Flight	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Late Flight	1
+Flight Booking Problems	1
+Damaged Luggage	1
+Bad Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Bad Flight	1
+Lost Luggage	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Bad Flight	1
+Damaged Luggage	1
+Bad Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+longlines	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Can't Tell	1
+Flight Booking Problems	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Booking Problems	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Lost Luggage	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Late Flight	1
+Cancelled Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Damaged Luggage	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Lost Luggage	1
+Can't Tell	1
+Can't Tell	1
+Cancelled Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Bad Flight	1
+Lost Luggage	1
+Late Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Damaged Luggage	1
+Cancelled Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Lost Luggage	1
+Bad Flight	1
+Can't Tell	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+Damaged Luggage	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Lost Luggage	1
+Can't Tell	1
+Lost Luggage	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Booking Problems	1
+Can't Tell	1
+Lost Luggage	1
+Customer Service Issue	1
+Lost Luggage	1
+Lost Luggage	1
+Lost Luggage	1
+Customer Service Issue	1
+Bad Flight	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Bad Flight	1
+Flight Booking Problems	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Flight Attendant Complaints	1
+Late Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Lost Luggage	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Late Flight	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Bad Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Late Flight	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Cancelled Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Flight Attendant Complaints	1
+Late Flight	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Flight Booking Problems	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Late Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Bad Flight	1
+Late Flight	1
+Cancelled Flight	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Lost Luggage	1
+Lost Luggage	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Lost Luggage	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Late Flight	1
+Late Flight	1
+longlines	1
+Lost Luggage	1
+Can't Tell	1
+Flight Booking Problems	1
+Lost Luggage	1
+Late Flight	1
+Late Flight	1
+Lost Luggage	1
+longlines	1
+Late Flight	1
+Late Flight	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Late Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Bad Flight	1
+Bad Flight	1
+Lost Luggage	1
+Cancelled Flight	1
+Bad Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Can't Tell	1
+Lost Luggage	1
+Late Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Late Flight	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Cancelled Flight	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Cancelled Flight	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Lost Luggage	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Lost Luggage	1
+Lost Luggage	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Bad Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Bad Flight	1
+Bad Flight	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Late Flight	1
+Bad Flight	1
+Cancelled Flight	1
+Lost Luggage	1
+Bad Flight	1
+Flight Booking Problems	1
+Can't Tell	1
+Bad Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+longlines	1
+Late Flight	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+Lost Luggage	1
+Can't Tell	1
+Lost Luggage	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Can't Tell	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Can't Tell	1
+Can't Tell	1
+Late Flight	1
+Cancelled Flight	1
+Bad Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Cancelled Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Bad Flight	1
+Lost Luggage	1
+Can't Tell	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Cancelled Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Damaged Luggage	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+longlines	1
+Cancelled Flight	1
+Lost Luggage	1
+Late Flight	1
+Late Flight	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Cancelled Flight	1
+Late Flight	1
+Lost Luggage	1
+Cancelled Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Lost Luggage	1
+Lost Luggage	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Late Flight	1
+Lost Luggage	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Late Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+longlines	1
+Customer Service Issue	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Cancelled Flight	1
+Late Flight	1
+Cancelled Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Lost Luggage	1
+Late Flight	1
+Bad Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Late Flight	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Bad Flight	1
+Late Flight	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Can't Tell	1
+Bad Flight	1
+Can't Tell	1
+Bad Flight	1
+Late Flight	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Customer Service Issue	1
+Can't Tell	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Bad Flight	1
+Late Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Cancelled Flight	1
+Can't Tell	1
+Bad Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+longlines	1
+Lost Luggage	1
+Lost Luggage	1
+Can't Tell	1
+Late Flight	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Can't Tell	1
+Cancelled Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Bad Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Late Flight	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Cancelled Flight	1
+Bad Flight	1
+Bad Flight	1
+Cancelled Flight	1
+Damaged Luggage	1
+Late Flight	1
+Bad Flight	1
+Cancelled Flight	1
+Late Flight	1
+Can't Tell	1
+Cancelled Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Can't Tell	1
+Bad Flight	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Can't Tell	1
+Bad Flight	1
+Flight Booking Problems	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Can't Tell	1
+Can't Tell	1
+Lost Luggage	1
+Flight Booking Problems	1
+Bad Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Bad Flight	1
+Can't Tell	1
+Late Flight	1
+Flight Attendant Complaints	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Lost Luggage	1
+Lost Luggage	1
+Late Flight	1
+Late Flight	1
+longlines	1
+Flight Booking Problems	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Damaged Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Bad Flight	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Late Flight	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Bad Flight	1
+longlines	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Late Flight	1
+Flight Booking Problems	1
+Late Flight	1
+Can't Tell	1
+Lost Luggage	1
+Bad Flight	1
+Damaged Luggage	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Flight Booking Problems	1
+Can't Tell	1
+Bad Flight	1
+Cancelled Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Late Flight	1
+Cancelled Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+longlines	1
+Customer Service Issue	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Bad Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+longlines	1
+Flight Booking Problems	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Customer Service Issue	1
+Lost Luggage	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Flight Booking Problems	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Bad Flight	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Cancelled Flight	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+longlines	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Damaged Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Bad Flight	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Cancelled Flight	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+longlines	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+longlines	1
+Bad Flight	1
+Can't Tell	1
+Lost Luggage	1
+longlines	1
+Customer Service Issue	1
+Lost Luggage	1
+Cancelled Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+longlines	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Bad Flight	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Can't Tell	1
+Flight Booking Problems	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Bad Flight	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Cancelled Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Can't Tell	1
+Bad Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Flight Booking Problems	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Late Flight	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Bad Flight	1
+Bad Flight	1
+Can't Tell	1
+Flight Booking Problems	1
+Lost Luggage	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Lost Luggage	1
+Flight Booking Problems	1
+Late Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Bad Flight	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Lost Luggage	1
+Flight Booking Problems	1
+Lost Luggage	1
+Customer Service Issue	1
+Lost Luggage	1
+Lost Luggage	1
+Late Flight	1
+Can't Tell	1
+Cancelled Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Lost Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Can't Tell	1
+Cancelled Flight	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Lost Luggage	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Bad Flight	1
+Can't Tell	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Flight Booking Problems	1
+Lost Luggage	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Lost Luggage	1
+Bad Flight	1
+Can't Tell	1
+Cancelled Flight	1
+Bad Flight	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+Bad Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Lost Luggage	1
+Can't Tell	1
+Flight Booking Problems	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Lost Luggage	1
+Can't Tell	1
+Damaged Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Late Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Booking Problems	1
+Cancelled Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Flight Booking Problems	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Bad Flight	1
+Customer Service Issue	1
+Late Flight	1
+Flight Booking Problems	1
+Lost Luggage	1
+Bad Flight	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Bad Flight	1
+longlines	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Bad Flight	1
+Lost Luggage	1
+Lost Luggage	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Damaged Luggage	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Cancelled Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+longlines	1
+Customer Service Issue	1
+Cancelled Flight	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Bad Flight	1
+Lost Luggage	1
+Lost Luggage	1
+Lost Luggage	1
+Bad Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Cancelled Flight	1
+Can't Tell	1
+Bad Flight	1
+Lost Luggage	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Bad Flight	1
+Bad Flight	1
+Lost Luggage	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Bad Flight	1
+Lost Luggage	1
+Lost Luggage	1
+Flight Booking Problems	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Damaged Luggage	1
+Cancelled Flight	1
+Lost Luggage	1
+Bad Flight	1
+Late Flight	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Bad Flight	1
+Flight Booking Problems	1
+Late Flight	1
+Cancelled Flight	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Bad Flight	1
+Can't Tell	1
+Cancelled Flight	1
+Can't Tell	1
+Can't Tell	1
+Cancelled Flight	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Bad Flight	1
+Late Flight	1
+Can't Tell	1
+Cancelled Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Damaged Luggage	1
+Flight Booking Problems	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Bad Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Damaged Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Bad Flight	1
+Can't Tell	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Damaged Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Cancelled Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Cancelled Flight	1
+Can't Tell	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Cancelled Flight	1
+Can't Tell	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Can't Tell	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+longlines	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Bad Flight	1
+longlines	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Bad Flight	1
+Lost Luggage	1
+Cancelled Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Can't Tell	1
+Can't Tell	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Flight Booking Problems	1
+Customer Service Issue	1
+longlines	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Lost Luggage	1
+Bad Flight	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Bad Flight	1
+Late Flight	1
+Cancelled Flight	1
+Late Flight	1
+Late Flight	1
+Damaged Luggage	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Can't Tell	1
+Lost Luggage	1
+Bad Flight	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Bad Flight	1
+Can't Tell	1
+Bad Flight	1
+Flight Booking Problems	1
+longlines	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Bad Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Late Flight	1
+Flight Attendant Complaints	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Late Flight	1
+Flight Attendant Complaints	1
+Bad Flight	1
+Bad Flight	1
+Can't Tell	1
+Bad Flight	1
+Can't Tell	1
+Lost Luggage	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Bad Flight	1
+Flight Booking Problems	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Cancelled Flight	1
+longlines	1
+longlines	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Late Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Bad Flight	1
+Late Flight	1
+Flight Attendant Complaints	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+longlines	1
+Customer Service Issue	1
+Damaged Luggage	1
+longlines	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Can't Tell	1
+Lost Luggage	1
+Late Flight	1
+Damaged Luggage	1
+Customer Service Issue	1
+Bad Flight	1
+Can't Tell	1
+Can't Tell	1
+Flight Booking Problems	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Booking Problems	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Cancelled Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Late Flight	1
+Cancelled Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Bad Flight	1
+Lost Luggage	1
+Can't Tell	1
+Flight Booking Problems	1
+Can't Tell	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Flight Booking Problems	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Flight Booking Problems	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Flight Booking Problems	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Cancelled Flight	1
+Flight Booking Problems	1
+Cancelled Flight	1
+Flight Booking Problems	1
+Late Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Can't Tell	1
+Bad Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Late Flight	1
+Flight Booking Problems	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Damaged Luggage	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Cancelled Flight	1
+Flight Booking Problems	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Bad Flight	1
+Bad Flight	1
+Late Flight	1
+Bad Flight	1
+Lost Luggage	1
+Bad Flight	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Bad Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Bad Flight	1
+Can't Tell	1
+Can't Tell	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Can't Tell	1
+Late Flight	1
+longlines	1
+Lost Luggage	1
+Can't Tell	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Can't Tell	1
+Bad Flight	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Bad Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Bad Flight	1
+Late Flight	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Can't Tell	1
+Lost Luggage	1
+Can't Tell	1
+Lost Luggage	1
+Customer Service Issue	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+longlines	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+longlines	1
+Flight Attendant Complaints	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Cancelled Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Bad Flight	1
+Bad Flight	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+longlines	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Lost Luggage	1
+Lost Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Cancelled Flight	1
+Bad Flight	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Flight Attendant Complaints	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+longlines	1
+Late Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Can't Tell	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Cancelled Flight	1
+Late Flight	1
+Cancelled Flight	1
+Lost Luggage	1
+Flight Booking Problems	1
+Bad Flight	1
+Bad Flight	1
+Lost Luggage	1
+Bad Flight	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Bad Flight	1
+Can't Tell	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Flight Attendant Complaints	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Lost Luggage	1
+Can't Tell	1
+Cancelled Flight	1
+Cancelled Flight	1
+Lost Luggage	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Flight Booking Problems	1
+Flight Booking Problems	1
+Cancelled Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Bad Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Lost Luggage	1
+Can't Tell	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Bad Flight	1
+Late Flight	1
+Bad Flight	1
+Flight Booking Problems	1
+Bad Flight	1
+Customer Service Issue	1
+Late Flight	1
+longlines	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Late Flight	1
+Lost Luggage	1
+Lost Luggage	1
+Lost Luggage	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Bad Flight	1
+Bad Flight	1
+Flight Booking Problems	1
+Can't Tell	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+longlines	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+longlines	1
+Cancelled Flight	1
+Lost Luggage	1
+Lost Luggage	1
+Can't Tell	1
+Lost Luggage	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Can't Tell	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Lost Luggage	1
+Flight Booking Problems	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Booking Problems	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Late Flight	1
+Late Flight	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Lost Luggage	1
+Cancelled Flight	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Can't Tell	1
+Lost Luggage	1
+Can't Tell	1
+Can't Tell	1
+Lost Luggage	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Late Flight	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Late Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Bad Flight	1
+Lost Luggage	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Lost Luggage	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Can't Tell	1
+Customer Service Issue	1
+Bad Flight	1
+Lost Luggage	1
+Lost Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Late Flight	1
+Lost Luggage	1
+Cancelled Flight	1
+Can't Tell	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Flight Booking Problems	1
+Late Flight	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+longlines	1
+Can't Tell	1
+Cancelled Flight	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Can't Tell	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Can't Tell	1
+Customer Service Issue	1
+Bad Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Can't Tell	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Late Flight	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Bad Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+longlines	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+longlines	1
+Customer Service Issue	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Bad Flight	1
+Can't Tell	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Cancelled Flight	1
+Cancelled Flight	1
+Late Flight	1
+Cancelled Flight	1
+Lost Luggage	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Lost Luggage	1
+longlines	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Late Flight	1
+Flight Booking Problems	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Bad Flight	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+longlines	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+longlines	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Lost Luggage	1
+Late Flight	1
+Can't Tell	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Cancelled Flight	1
+Can't Tell	1
+Can't Tell	1
+Cancelled Flight	1
+Bad Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+longlines	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Late Flight	1
+Cancelled Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Flight Booking Problems	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+longlines	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Flight Booking Problems	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Cancelled Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Flight Attendant Complaints	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Can't Tell	1
+Cancelled Flight	1
+Late Flight	1
+longlines	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Late Flight	1
+Flight Attendant Complaints	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+longlines	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+longlines	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Cancelled Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+longlines	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Damaged Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Booking Problems	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Booking Problems	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Can't Tell	1
+Bad Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Flight Booking Problems	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Bad Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Lost Luggage	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Lost Luggage	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Bad Flight	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Can't Tell	1
+Late Flight	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Late Flight	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Late Flight	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Cancelled Flight	1
+longlines	1
+Cancelled Flight	1
+Late Flight	1
+Late Flight	1
+Bad Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Bad Flight	1
+Late Flight	1
+Can't Tell	1
+longlines	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Bad Flight	1
+Can't Tell	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Bad Flight	1
+Flight Booking Problems	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Bad Flight	1
+Bad Flight	1
+Bad Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Bad Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Bad Flight	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Late Flight	1
+Damaged Luggage	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Bad Flight	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Bad Flight	1
+Flight Booking Problems	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Lost Luggage	1
+longlines	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+longlines	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Damaged Luggage	1
+Cancelled Flight	1
+Flight Booking Problems	1
+Lost Luggage	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Customer Service Issue	1
+Lost Luggage	1
+Cancelled Flight	1
+Can't Tell	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Flight Booking Problems	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Bad Flight	1
+Flight Booking Problems	1
+Can't Tell	1
+Flight Booking Problems	1
+Late Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+longlines	1
+Customer Service Issue	1
+Late Flight	1
+Damaged Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Can't Tell	1
+Bad Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Flight Booking Problems	1
+longlines	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+Cancelled Flight	1
+Late Flight	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Bad Flight	1
+Customer Service Issue	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Late Flight	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Cancelled Flight	1
+Bad Flight	1
+Cancelled Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Late Flight	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Cancelled Flight	1
+Cancelled Flight	1
+Can't Tell	1
+Customer Service Issue	1
+longlines	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Lost Luggage	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+longlines	1
+Cancelled Flight	1
+Late Flight	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Bad Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Flight Booking Problems	1
+Bad Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Late Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Flight Booking Problems	1
+Bad Flight	1
+Cancelled Flight	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Lost Luggage	1
+longlines	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+longlines	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Bad Flight	1
+Bad Flight	1
+Cancelled Flight	1
+Late Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Cancelled Flight	1
+Bad Flight	1
+Cancelled Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Damaged Luggage	1
+Can't Tell	1
+Late Flight	1
+Lost Luggage	1
+longlines	1
+Cancelled Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Bad Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Flight Attendant Complaints	1
+Bad Flight	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+longlines	1
+Flight Booking Problems	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Flight Booking Problems	1
+Late Flight	1
+Lost Luggage	1
+Bad Flight	1
+Late Flight	1
+Bad Flight	1
+Bad Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Bad Flight	1
+Bad Flight	1
+Bad Flight	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Lost Luggage	1
+Lost Luggage	1
+Lost Luggage	1
+Customer Service Issue	1
+Lost Luggage	1
+Cancelled Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+longlines	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+longlines	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Booking Problems	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Cancelled Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+longlines	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Bad Flight	1
+Late Flight	1
+Bad Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Lost Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Cancelled Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Late Flight	1
+Bad Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Cancelled Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Can't Tell	1
+Lost Luggage	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Damaged Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+longlines	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Damaged Luggage	1
+Can't Tell	1
+Cancelled Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Cancelled Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Bad Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Flight Booking Problems	1
+Late Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+longlines	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Lost Luggage	1
+Can't Tell	1
+Bad Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Flight Booking Problems	1
+Can't Tell	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Late Flight	1
+Flight Booking Problems	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Lost Luggage	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Lost Luggage	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Damaged Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+longlines	1
+Customer Service Issue	1
+Customer Service Issue	1
+Damaged Luggage	1
+Lost Luggage	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+longlines	1
+Flight Attendant Complaints	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Flight Booking Problems	1
+Can't Tell	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Cancelled Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Cancelled Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Cancelled Flight	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Bad Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Flight Attendant Complaints	1
+Lost Luggage	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Lost Luggage	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Customer Service Issue	1
+Lost Luggage	1
+Can't Tell	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Can't Tell	1
+Bad Flight	1
+Customer Service Issue	1
+longlines	1
+Flight Booking Problems	1
+Can't Tell	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Lost Luggage	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Can't Tell	1
+Bad Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Lost Luggage	1
+Flight Booking Problems	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Can't Tell	1
+Can't Tell	1
+Late Flight	1
+Can't Tell	1
+Bad Flight	1
+Can't Tell	1
+Cancelled Flight	1
+longlines	1
+Flight Booking Problems	1
+Bad Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Bad Flight	1
+Late Flight	1
+Cancelled Flight	1
+Lost Luggage	1
+Late Flight	1
+longlines	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Flight Attendant Complaints	1
+Bad Flight	1
+Cancelled Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Late Flight	1
+longlines	1
+Customer Service Issue	1
+Can't Tell	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Cancelled Flight	1
+Late Flight	1
+Late Flight	1
+Cancelled Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Bad Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Late Flight	1
+Lost Luggage	1
+Customer Service Issue	1
+Can't Tell	1
+longlines	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Bad Flight	1
+Cancelled Flight	1
+longlines	1
+Late Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Cancelled Flight	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Flight Booking Problems	1
+Late Flight	1
+Can't Tell	1
+Cancelled Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Flight Attendant Complaints	1
+Late Flight	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Late Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Late Flight	1
+Flight Booking Problems	1
+Flight Booking Problems	1
+Bad Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Bad Flight	1
+Customer Service Issue	1
+Cancelled Flight	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Flight Booking Problems	1
+Late Flight	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Lost Luggage	1
+Late Flight	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Cancelled Flight	1
+Cancelled Flight	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Cancelled Flight	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Can't Tell	1
+Lost Luggage	1
+Can't Tell	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Lost Luggage	1
+Customer Service Issue	1
+Late Flight	1
+Can't Tell	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Cancelled Flight	1
+Flight Booking Problems	1
+Flight Booking Problems	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Lost Luggage	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Booking Problems	1
+Flight Booking Problems	1
+Lost Luggage	1
+Flight Booking Problems	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Can't Tell	1
+Customer Service Issue	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Cancelled Flight	1
+Customer Service Issue	1
+Flight Attendant Complaints	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Late Flight	1
+Late Flight	1
+Customer Service Issue	1
+Customer Service Issue	1
+Customer Service Issue	1
+Late Flight	1
+Cancelled Flight	1
+Late Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+Cancelled Flight	1
+longlines	1
+Cancelled Flight	1
+Bad Flight	1
+Late Flight	1
+Bad Flight	1
+Late Flight	1
+Customer Service Issue	1

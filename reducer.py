@@ -26,7 +26,7 @@ for line in f:
         oldKey = thisKey
        
         
-        if thisKey == "Virgin America":
+        if thisKey == "United":
                 
                 if feedback == "positive":
                        
@@ -38,51 +38,7 @@ for line in f:
                 else:
                         ncount+=1
                         
-        elif thisKey == "United":
-                if feedback == "positive":
-                       
-                        pcount +=1
-                elif feedback == "neutral":
-                       
-                        neutralcount += 1
-                else:
-                        ncount+=1
-        elif thisKey == "Southwest":
-                if feedback == "positive":
-                       
-                        pcount +=1
-                elif feedback == "neutral":
-                       
-                        neutralcount += 1
-                else:
-                        ncount+=1
-        elif thisKey == "Delta":
-                if feedback == "positive":
-                       
-                        pcount +=1
-                elif feedback == "neutral":
-                       
-                        neutralcount += 1
-                else:
-                        ncount+=1
-        elif thisKey == "US Airways":
-                if feedback == "positive":
-                       
-                        pcount +=1
-                elif feedback == "neutral":
-                       
-                        neutralcount += 1
-                else:
-                        ncount+=1
-        elif thisKey == "American":
-                if feedback == "positive":
-                       
-                        pcount +=1
-                elif feedback == "neutral":
-                       
-                        neutralcount += 1
-                else:
-                        ncount+=1                        
+                             
                        
                         
                     
