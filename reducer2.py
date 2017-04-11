@@ -2,8 +2,9 @@ reasonCount = 0
 oldKey = None
 f = open("moutput2.txt","r")
 o = open("r2output.txt","w")
-
-for line in f:
+lines = f.readlines()
+lines.sort()
+for line in lines:
 	data = line.strip().split("\t")
 	
 	if len(data) != 2:
@@ -21,3 +22,4 @@ for line in f:
 if oldKey != None:
 	print oldKey, "\t", reasonCount
         o.write("{0}\t{1}\n".format(oldKey,reasonCount)) 
+ 
