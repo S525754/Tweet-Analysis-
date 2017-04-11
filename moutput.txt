@@ -1,0 +1,7296 @@
+airline,airline_sentiment
+Virgin America,neutral
+Virgin America,positive
+Virgin America,neutral
+Virgin America,negative
+Virgin America,negative
+Virgin America,neutral
+Virgin America,positive
+Virgin America,positive
+Virgin America,positive
+Virgin America,positive
+Virgin America,negative
+Virgin America,positive
+Virgin America,positive
+Virgin America,negative
+Virgin America,positive
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,neutral
+Virgin America,positive
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,positive
+Virgin America,neutral
+Virgin America,positive
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,positive
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,positive
+Virgin America,neutral
+Virgin America,negative
+Virgin America,neutral
+Virgin America,negative
+Virgin America,negative
+Virgin America,neutral
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,negative
+Virgin America,neutral
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,neutral
+Virgin America,negative
+Virgin America,positive
+Virgin America,positive
+Virgin America,negative
+Virgin America,negative
+Virgin America,positive
+Virgin America,positive
+Virgin America,neutral
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,positive
+Virgin America,positive
+Virgin America,negative
+Virgin America,neutral
+Virgin America,negative
+Virgin America,positive
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,neutral
+Virgin America,positive
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,neutral
+Virgin America,negative
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,negative
+Virgin America,neutral
+Virgin America,positive
+Virgin America,negative
+Virgin America,negative
+Virgin America,neutral
+Virgin America,negative
+Virgin America,positive
+Virgin America,positive
+Virgin America,neutral
+Virgin America,negative
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,negative
+Virgin America,positive
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,positive
+Virgin America,positive
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,positive
+Virgin America,positive
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,positive
+Virgin America,positive
+Virgin America,positive
+Virgin America,negative
+Virgin America,positive
+Virgin America,neutral
+Virgin America,negative
+Virgin America,negative
+Virgin America,positive
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,positive
+Virgin America,positive
+Virgin America,negative
+Virgin America,neutral
+Virgin America,positive
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,negative
+Virgin America,negative
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,positive
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,positive
+Virgin America,positive
+Virgin America,positive
+Virgin America,negative
+Virgin America,negative
+Virgin America,neutral
+Virgin America,positive
+Virgin America,neutral
+Virgin America,negative
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,positive
+Virgin America,positive
+Virgin America,neutral
+Virgin America,negative
+Virgin America,positive
+Virgin America,negative
+Virgin America,negative
+Virgin America,negative
+Virgin America,positive
+Virgin America,positive
+Virgin America,negative
+Virgin America,positive
+Virgin America,positive
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,positive
+Virgin America,neutral
+Virgin America,negative
+Virgin America,positive
+Virgin America,negative
+Virgin America,positive
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,positive
+Virgin America,negative
+Virgin America,negative
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,positive
+Virgin America,neutral
+Virgin America,positive
+Virgin America,neutral
+Virgin America,negative
+Virgin America,positive
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,positive
+Virgin America,neutral
+Virgin America,negative
+Virgin America,negative
+Virgin America,positive
+Virgin America,neutral
+Virgin America,positive
+Virgin America,negative
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,negative
+Virgin America,positive
+Virgin America,positive
+Virgin America,neutral
+Virgin America,negative
+Virgin America,negative
+Virgin America,positive
+Virgin America,positive
+Virgin America,neutral
+Virgin America,negative
+Virgin America,neutral
+Virgin America,neutral
+Virgin America,positive
+United,positive
+United,negative
+United,positive
+United,positive
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,positive
+United,neutral
+United,positive
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,positive
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,neutral
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,positive
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,positive
+United,positive
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,positive
+United,neutral
+United,neutral
+United,neutral
+United,negative
+United,positive
+United,positive
+United,neutral
+United,positive
+United,negative
+United,positive
+United,negative
+United,positive
+United,negative
+United,positive
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,positive
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,positive
+United,negative
+United,positive
+United,neutral
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,positive
+United,positive
+United,negative
+United,negative
+United,negative
+United,positive
+United,positive
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,neutral
+United,negative
+United,positive
+United,neutral
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,positive
+United,neutral
+United,neutral
+United,positive
+United,positive
+United,negative
+United,negative
+United,positive
+United,positive
+United,negative
+United,negative
+United,positive
+United,neutral
+United,positive
+United,positive
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,positive
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,neutral
+United,neutral
+United,neutral
+United,neutral
+United,positive
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,positive
+United,negative
+United,neutral
+United,negative
+United,positive
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,positive
+United,negative
+United,neutral
+United,negative
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,positive
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,positive
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,positive
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,neutral
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,neutral
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,positive
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,positive
+United,negative
+United,neutral
+United,neutral
+United,neutral
+United,neutral
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,positive
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,positive
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,positive
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,positive
+United,positive
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,positive
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,positive
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,positive
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,positive
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,positive
+United,negative
+United,positive
+United,positive
+United,negative
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,neutral
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,positive
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,positive
+United,negative
+United,positive
+United,neutral
+United,neutral
+United,positive
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,positive
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,neutral
+United,negative
+United,neutral
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,positive
+United,positive
+United,negative
+United,positive
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,positive
+United,neutral
+United,neutral
+United,positive
+United,negative
+United,positive
+United,positive
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,positive
+United,negative
+United,positive
+United,negative
+United,negative
+United,positive
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,positive
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,positive
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,neutral
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,positive
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,neutral
+United,positive
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,positive
+United,positive
+United,negative
+United,positive
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,positive
+United,positive
+United,negative
+United,positive
+United,negative
+United,positive
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,positive
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,positive
+United,positive
+United,positive
+United,positive
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,positive
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,neutral
+United,neutral
+United,neutral
+United,negative
+United,positive
+United,positive
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,positive
+United,negative
+United,negative
+United,neutral
+United,positive
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,positive
+United,neutral
+United,positive
+United,neutral
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,negative
+United,positive
+United,negative
+United,neutral
+United,neutral
+United,neutral
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,positive
+United,negative
+United,negative
+United,neutral
+United,positive
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,positive
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,neutral
+United,positive
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,neutral
+United,positive
+United,positive
+United,negative
+United,positive
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,positive
+United,negative
+United,neutral
+United,positive
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,positive
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,positive
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,positive
+United,negative
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,positive
+United,negative
+United,negative
+United,neutral
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,positive
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,positive
+United,negative
+United,positive
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,negative
+United,positive
+United,neutral
+United,neutral
+United,neutral
+United,negative
+United,negative
+United,neutral
+United,negative
+United,positive
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,positive
+United,neutral
+United,negative
+United,negative
+United,negative
+United,neutral
+United,negative
+United,neutral
+United,negative
+United,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,positive
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,neutral
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,neutral
+Southwest,positive
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,negative
+Southwest,neutral
+Southwest,negative
+Southwest,negative
+Southwest,positive
+Southwest,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,neutral
+Delta,neutral
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,positive
+Delta,neutral
+Delta,negative
+Delta,positive
+Delta,negative
+Delta,neutral
+Delta,negative
+Delta,negative
+Delta,neutral
+Delta,positive
+Delta,negative
+Delta,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,positive
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,positive
+US Airways,negative
+US Airways,positive
+US Airways,neutral
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,positive
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,positive
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,neutral
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,neutral
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,positive
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,positive
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,neutral
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,positive
+US Airways,neutral
+US Airways,positive
+US Airways,negative
+US Airways,positive
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,positive
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,positive
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,positive
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,neutral
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,neutral
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,positive
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,positive
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,neutral
+US Airways,positive
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,positive
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,neutral
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,positive
+US Airways,positive
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,positive
+US Airways,negative
+US Airways,neutral
+US Airways,positive
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,positive
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,positive
+US Airways,positive
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,negative
+US Airways,neutral
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,positive
+American,negative
+American,positive
+American,neutral
+American,positive
+American,positive
+American,neutral
+American,negative
+American,positive
+American,negative
+American,positive
+American,positive
+American,negative
+American,neutral
+American,negative
+American,negative
+American,positive
+American,neutral
+American,negative
+American,neutral
+American,positive
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,positive
+American,negative
+American,neutral
+American,positive
+American,positive
+American,negative
+American,negative
+American,neutral
+American,positive
+American,positive
+American,positive
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+Delta,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,positive
+American,negative
+American,neutral
+American,neutral
+American,positive
+American,positive
+American,neutral
+American,negative
+American,positive
+American,neutral
+American,positive
+American,positive
+American,negative
+American,neutral
+American,negative
+American,negative
+American,positive
+American,neutral
+American,negative
+American,neutral
+American,positive
+American,neutral
+American,positive
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,positive
+American,positive
+American,positive
+American,negative
+American,negative
+American,neutral
+American,positive
+American,neutral
+American,positive
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,neutral
+American,positive
+American,negative
+American,negative
+American,positive
+American,negative
+American,neutral
+American,positive
+American,neutral
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,positive
+American,neutral
+American,neutral
+American,neutral
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,negative
+American,neutral
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,positive
+American,neutral
+American,negative
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,neutral
+American,negative
+American,positive
+American,positive
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,positive
+American,negative
+American,negative
+American,neutral
+American,negative
+American,neutral
+American,positive
+American,negative
+American,positive
+American,neutral
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,positive
+American,neutral
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,positive
+American,positive
+American,neutral
+American,neutral
+American,neutral
+American,negative
+American,neutral
+American,neutral
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,positive
+American,neutral
+American,positive
+American,negative
+American,neutral
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,neutral
+American,negative
+American,neutral
+American,positive
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,positive
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,positive
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,positive
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,positive
+American,neutral
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,positive
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,positive
+American,negative
+American,negative
+American,positive
+American,negative
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,neutral
+American,positive
+American,positive
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,positive
+American,negative
+American,negative
+American,positive
+American,negative
+American,neutral
+American,neutral
+American,negative
+American,positive
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,positive
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,positive
+American,negative
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,negative
+American,positive
+American,neutral
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,neutral
+American,positive
+American,negative
+American,negative
+American,positive
+American,negative
+American,neutral
+American,negative
+American,positive
+American,neutral
+American,neutral
+American,negative
+American,positive
+American,negative
+American,positive
+American,negative
+American,neutral
+American,positive
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,negative
+American,neutral
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,positive
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,neutral
+American,negative
+American,positive
+American,neutral
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,positive
+American,negative
+American,negative
+American,neutral
+American,positive
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,positive
+American,positive
+American,negative
+American,positive
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,neutral
+American,negative
+American,positive
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,positive
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,positive
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,neutral
+American,neutral
+American,negative
+American,positive
+American,neutral
+American,positive
+American,positive
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,positive
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,positive
+American,positive
+American,neutral
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,positive
+American,positive
+American,neutral
+American,negative
+American,negative
+American,positive
+American,negative
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,positive
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,positive
+American,negative
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,positive
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,positive
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,neutral
+American,neutral
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,positive
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,positive
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,neutral
+American,negative
+American,negative
+American,negative
+American,negative
+American,positive
+American,negative
+American,positive
+American,negative
+American,negative
+American,positive
+American,negative
