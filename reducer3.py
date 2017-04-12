@@ -93,7 +93,7 @@ if oldKey == thisKey:
         print oldKey, "\t", ncount, "\t", neutralcount, "\t", pcount
         o.write("{0}\t{1}\t{2}\t{3}\n".format(oldKey, ncount, neutralcount, pcount))
   
-#Closing input file is mandatory
+#Closing input file
 f.close()
-#closing output file is mandatory
+#closing output file
 o.close()
