@@ -11,4 +11,5 @@ for line in f:
         o.write("{0},{1}\n".format(airline, airline_sentiment))
 #Closing input and output files
 f.close()
+#closing output file is mandatory
 o.close()
