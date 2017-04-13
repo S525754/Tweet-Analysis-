@@ -1,6 +1,6 @@
 reasonCount = 0
 oldKey = None
-#opening input file and output files
+#opening both input file and output files
 f = open("moutput2.txt","r")
 o = open("r2output.txt","w")
 lines = f.readlines()

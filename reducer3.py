@@ -3,7 +3,7 @@ oldKey = None
 pcount = 0
 ncount = 0
 neutralcount = 0
-#opening input file and output files
+#opening both input file and output files
 f = open("moutput.txt","r")  
 o = open("r1output.txt", "w")
 #Each line data will be splitted and stored in data variable
@@ -93,6 +93,7 @@ if oldKey == thisKey:
         print oldKey, "\t", ncount, "\t", neutralcount, "\t", pcount
         o.write("{0}\t{1}\t{2}\t{3}\n".format(oldKey, ncount, neutralcount, pcount))
   
-#Closing input and output files
+#Closing input file
 f.close()
+#closing output file
 o.close()
