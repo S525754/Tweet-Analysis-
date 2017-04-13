@@ -4,7 +4,7 @@ pcount = 0
 ncount = 0
 neutralcount = 0
 #opening both input file and output files
-f = open("moutput.txt","r")  
+f = open("moutput3.txt","r")  
 o = open("r1output.txt", "w")
 #Each line data will be splitted and stored in data variable
 for line in f:
