@@ -12,7 +12,11 @@ Which airline has most negative feedback and which airline has most positive fee
 Using the Tortoise SVN and GIT clone command you can pull the repository into your local system. Link is mentioned below.
 https://github.com/S525754/Tweet-Analysis---Airline-Sentiment.git
 
-How to execute the command:
+How to execute the scripts in Pythonshell:
+1) Run Mapper.py by using the command execfile('mapper.py')
+2) Run reducer.py by using the following command execfile('reducer.py')
+
+
 hadoop fs -put Tweets.CSV  This command will place the CSV file in HDFS
 hs mapper.py reducer.py myinput joboutput  -> Will generate the output
 
