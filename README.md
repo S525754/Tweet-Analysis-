@@ -37,5 +37,7 @@ To execute above scripts in hadoop we can follow the steps as mentioned below.
 2)hs mapper.py reducer.py myinput joboutput  -> Will generate the output
 
 
+![mr1 graph](https://cloud.githubusercontent.com/assets/25062249/25032610/202b91ec-209b-11e7-8735-12fcc579fdf1.JPG)
+
 
 
