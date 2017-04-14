@@ -57,9 +57,76 @@ MR1 Graph:
 ![mr1 graph](https://cloud.githubusercontent.com/assets/25062249/25032610/202b91ec-209b-11e7-8735-12fcc579fdf1.JPG)
 
 MR2 Graph:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![mr2 graph](https://cloud.githubusercontent.com/assets/25062249/25032629/5690a646-209b-11e7-88c6-429287dd90c0.JPG)
 
 MR3 Graph:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![mr3 graph](https://cloud.githubusercontent.com/assets/25062249/25032628/568fc0d2-209b-11e7-9609-e7ca223393bf.JPG)
 
 
