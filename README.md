@@ -4,6 +4,8 @@ Customers will give either positive, negative or neutral feedback to the airline
 
 Dataset we have referred:
 
+We have got this dataset from Kaggle. com and link to this repository is as below
+
 https://www.kaggle.com/crowdflower/twitter-airline-sentiment
 
 Total file size: 3MB
@@ -12,6 +14,7 @@ We will also analyse the following mapreduce problems
 
 MapRedce Problem1:
 What is the positive feedback percentage for the United Airlines?
+
 
 MapRedce Problem2:
 Which type of issues made customers give negative feedback and its values?
