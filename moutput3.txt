@@ -1,4 +1,3 @@
-airline,airline_sentiment
 Virgin America,neutral
 Virgin America,positive
 Virgin America,neutral

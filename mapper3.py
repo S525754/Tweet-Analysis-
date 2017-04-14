@@ -1,6 +1,7 @@
 #opening input file and output files
 f = open("Tweets.csv","r")  
-o = open("moutput3.txt", "w") 
+o = open("moutput3.txt", "w")
+f.readline()
 #Each line data will be splitted and stored in data variable
 for line in f:  
     data = line.strip().split(",") 

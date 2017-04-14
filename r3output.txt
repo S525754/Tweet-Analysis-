@@ -4,4 +4,3 @@ Southwest	573	360	284
 US Airways	1159	201	123
 United	1218	366	238
 Virgin America	85	90	64
-airline	0	0	0
