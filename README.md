@@ -1,6 +1,13 @@
 # Tweet-Analysis---Airline-Sentiment
 This project analysis the dataset which has tweets from airlines customers on its service.
 Customers will give either positive, negative or neutral feedback to the airline service. We would like to analyze these tweets for different airlines.
+
+Dataset we have referred:
+
+https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+
+Total file size: 3MB
+
 We will also analyse the following mapreduce problems
 
 MapRedce Problem1:
