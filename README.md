@@ -1,10 +1,20 @@
 # Tweet-Analysis---Airline-Sentiment
 This project analysis the dataset which has tweets from airlines customers on its service.
 Customers will give either positive, negative or neutral feedback to the airline service. We would like to analyze these tweets for different airlines.
+
+Dataset we have referred:
+
+We have got this dataset from Kaggle. com and link to this repository is as below
+
+https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+
+Total file size: 3MB
+
 We will also analyse the following mapreduce problems
 
 MapRedce Problem1:
 What is the positive feedback percentage for the United Airlines?
+
 
 MapRedce Problem2:
 Which type of issues made customers give negative feedback and its values?
@@ -34,8 +44,101 @@ Map reduce problem3:
 To execute above scripts in hadoop we can follow the steps as mentioned below.
 
 1)hadoop fs -put Tweets.CSV -->  This command will place the CSV file in HDFS
+
+
 2)hs mapper.py reducer.py myinput joboutput  -> Will generate the output
 
+MR1 Graph:
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![mr1 graph](https://cloud.githubusercontent.com/assets/25062249/25032610/202b91ec-209b-11e7-8735-12fcc579fdf1.JPG)
+
+MR2 Graph:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![mr2 graph](https://cloud.githubusercontent.com/assets/25062249/25032629/5690a646-209b-11e7-88c6-429287dd90c0.JPG)
+
+MR3 Graph:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![mr3 graph](https://cloud.githubusercontent.com/assets/25062249/25032628/568fc0d2-209b-11e7-9609-e7ca223393bf.JPG)
 
 
