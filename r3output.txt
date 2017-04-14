@@ -1,9 +1,7 @@
-airline	0	0	0
-Virgin America	85	90	64
-United	1218	366	238
+American	924	232	155
+Delta	484	451	288
 Southwest	573	360	284
-Delta	483	451	288
 US Airways	1159	201	123
-American	38	16	16
-Delta	1	0	0
-American	886	216	139
+United	1218	366	238
+Virgin America	85	90	64
+airline	0	0	0

@@ -6,8 +6,12 @@ neutralcount = 0
 #opening both input file and output files
 f = open("moutput3.txt","r")  
 o = open("r3output.txt", "w")
+
+lines = f.readlines()
+#Sorting mapper output
+lines.sort()
 #Each line data will be splitted and stored in data variable
-for line in f:
+for line in lines:
        
 	data = line.strip().split(",")
 	
