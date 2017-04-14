@@ -34,6 +34,8 @@ Map reduce problem3:
 To execute above scripts in hadoop we can follow the steps as mentioned below.
 
 1)hadoop fs -put Tweets.CSV -->  This command will place the CSV file in HDFS
+
+
 2)hs mapper.py reducer.py myinput joboutput  -> Will generate the output
 
 MR1 Graph:
