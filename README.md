@@ -32,82 +32,149 @@ https://github.com/S525754/Tweet-Analysis---Airline-Sentiment.git
 
 How to execute the scripts in Pythonshell:
 We need to keep input file in the project folder for all three mapreduce problems. We can execute python scripts with the following commands. 
-Map reduce problem1:
+# Map reduce problem1:
 1) Run Mapper.py by using the following command --> execfile('mapper.py')
+
 # Sample mapper1 output:
+
 United	positive
+
 United	positive
+
 United	neutral
+
 United	positive
+
 United	negative
+
 United	positive
+
 United	negative
+
 United	positive
+
 United	negative
+
 United	positive
+
 United	negative
+
 United	negative
+
 United	neutral
+
 United	negative
+
 United	negative
+
 
 2) Run reducer.py by using the following command --> execfile('reducer.py')
+
 # Sample reducer1 output:
+
 United 	1218 	366 	238
 
-Map reduce problem2:
+# Map reduce problem2:
 1) Run Mapper2.py by using the following command --> execfile('mapper2.py')
+
 # Sample mapper1.py output:
+
 Cancelled Flight	1
+
 17
+
 17
+
 15
+
 Bad Flight	1
+
 15
+
 16
+
 17
+
 15
+
 
 2) Run reducer2.py by using the following command --> execfile('reducer2.py')
+
 # Sample reducer2 output:
 Bad Flight	300
+
 Can't Tell	584
+
 Cancelled Flight	391
+
 Customer Service Issue	1447
+
 Damaged Luggage	31
+
 Flight Attendant Complaints	237
+
 Flight Booking Problems	235
+
 Late Flight	798
+
 Lost Luggage	348
+
 longlines	72
+
 negativereason 	1
 
-Map reduce problem3:
+
+# Map reduce problem3:
 1) Run Mapper3.py by using the following command --> execfile('mapper3.py')
+
 # Sample mapper3.py output:
+
 US Airways	negative
+
 US Airways	negative
+
 US Airways	negative
+
 US Airways	negative
+
 US Airways	negative
+
 US Airways	neutral
+
 American	negative
+
 American	neutral
+
 American	negative
+
 American	negative
+
 American	negative
+
 American	neutral
+
 American	negative
+
 American	negative
+
 American	positive
+
 American	negative
+
 2) Run reducer3.py by using the following command --> execfile('reducer3.py')
+
 # Sample reducer3.py output:
+
 American	924	232	155
+
 Delta	484	451	288
+
 Southwest	573	360	284
+
 US Airways	1159	201	123
+
 United	1218	366	238
+
 Virgin America 	85 	90 	64
 
 To execute above scripts in hadoop we can follow the steps as mentioned below.
